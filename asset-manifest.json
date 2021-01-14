@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OnlinePiano/static/css/main.7fef62dc.chunk.css",
+    "main.js": "/OnlinePiano/static/js/main.9390b726.chunk.js",
+    "main.js.map": "/OnlinePiano/static/js/main.9390b726.chunk.js.map",
+    "runtime-main.js": "/OnlinePiano/static/js/runtime-main.946d9246.js",
+    "runtime-main.js.map": "/OnlinePiano/static/js/runtime-main.946d9246.js.map",
+    "static/js/2.f41f9dd7.chunk.js": "/OnlinePiano/static/js/2.f41f9dd7.chunk.js",
+    "static/js/2.f41f9dd7.chunk.js.map": "/OnlinePiano/static/js/2.f41f9dd7.chunk.js.map",
+    "static/js/3.3d45e074.chunk.js": "/OnlinePiano/static/js/3.3d45e074.chunk.js",
+    "static/js/3.3d45e074.chunk.js.map": "/OnlinePiano/static/js/3.3d45e074.chunk.js.map",
+    "index.html": "/OnlinePiano/index.html",
+    "static/css/main.7fef62dc.chunk.css.map": "/OnlinePiano/static/css/main.7fef62dc.chunk.css.map",
+    "static/js/2.f41f9dd7.chunk.js.LICENSE.txt": "/OnlinePiano/static/js/2.f41f9dd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.946d9246.js",
+    "static/js/2.f41f9dd7.chunk.js",
+    "static/css/main.7fef62dc.chunk.css",
+    "static/js/main.9390b726.chunk.js"
+  ]
+}
